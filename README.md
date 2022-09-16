@@ -6,3 +6,5 @@ Current features
   - Includes trees, rocks, and grass
 - Main character animation
   - Run, walk, idle
+
+![Game Image](https://i.imgur.com/kZ38oH7.png)
